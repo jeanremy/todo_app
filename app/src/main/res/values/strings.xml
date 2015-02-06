@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDoList</string>
+    <string name="add_task">Ajouter une tâche</string>
+    <string name="create_task">Créer une tâche</string>
+    <string name="task_name">Nom de la tâche</string>
+    <string name="task_position">Position</string>
+    <string name="todo">A faire</string>
+    <string name="title_activity_create_task">CreateTaskActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Chargement...</string>
+
+</resources>
